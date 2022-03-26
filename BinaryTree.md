@@ -1,8 +1,10 @@
 # Patika-VeriYap-lar-VeAlgoritmalar
 
 Root : 7
-
-```
+ 
+ 
+ 
+ ```
        7
       / \
     5     8 
@@ -12,4 +14,4 @@ Root : 7
 0     3
      /  \
     2     4 
-    ```
+
